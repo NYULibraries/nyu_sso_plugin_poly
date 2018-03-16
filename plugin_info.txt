@@ -1,0 +1,2 @@
+AppConfig[:plugins] = ['nyu_sso_plugin']
+plugin_version:0.1.0

@@ -1,0 +1,8 @@
+---
+node_default_message: 'Applying node default'
+aspace_sso::acm::auth_key: 'secret_word_goes_here'
+aspace_sso::acm::sso_url: 'localhost'
+aspace_sso::acm::sso_login_url: 'localhost'
+aspace_sso::acm:sso_frontend_port: '8080'
+aspace_sso::acm::sso_backend_port: '8089'
+aspace_sso::acm::ap_id: 'ap_id_goes_here'
